@@ -6,7 +6,7 @@ module.exports.config = {
   credits: "ARIF BABU", 
   description: "Just Respond",
   usePrefix: true,
-  commandCategory: "no prefix",
+  commandCategory: "prefix",
     cooldowns: 5, 
 };
 
